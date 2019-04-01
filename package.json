@@ -1,0 +1,32 @@
+{
+  "name": "react-playground",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000r\u0000e\u0000a\u0000c\u0000t\u0000-\u0000p\u0000l\u0000a\u0000y\u0000g\u0000r\u0000o\u0000u\u0000n\u0000d\u0000\r\u0000 \u0000",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vogelsara/react-playground.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vogelsara/react-playground/issues"
+  },
+  "homepage": "https://github.com/vogelsara/react-playground#readme",
+  "dependencies": {
+    "@types/react": "^16.8.10",
+    "@types/react-dom": "^16.8.3",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  },
+  "devDependencies": {
+    "awesome-typescript-loader": "^5.2.1",
+    "source-map-loader": "^0.2.4",
+    "typescript": "^3.4.1",
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.3.0"
+  }
+}
